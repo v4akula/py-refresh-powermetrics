@@ -2,8 +2,8 @@
 ### Author: Venkat Akula ###
 ### Last updated: 11/10/2021 ###
 ### Description ###
-### This code is tested on a Mac
-### This script refreshes given url at specified time intravels
+### This code is tested on a MacBook
+### This script refreshes given url at specified time intervals
 #################################################################
 import webbrowser
 from time import sleep
