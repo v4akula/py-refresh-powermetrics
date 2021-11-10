@@ -5,7 +5,7 @@
 ### This code is written for Mac OS
 ### Starts simple HTTP server provided with GET method
 ### Displays hostname, current timestamp and CPU temperature
-### When the temperatus is above threshold limit
+### When the temperature is above threshold limit
 ###    - it is displayed in red color and
 ###    - generates voice message
 #################################################################
