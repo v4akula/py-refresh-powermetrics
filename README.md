@@ -21,4 +21,4 @@ This project demonstrates:
 + Press ^C to terminate each of the program
 
 ### Sample output
-![Display system metrics](display_system_metrics.png)
+![Display system metrics](sample_outout.png)
